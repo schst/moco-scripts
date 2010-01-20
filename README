@@ -1,0 +1,6 @@
+moco scripts
+============
+
+This is a collection of small (but helpful) scripts that we used while developing moco - the movie collection.
+
+The scripts require ruby-aaws (0.7.0) to be installed on your system and be configured properly, which can be downloaded from http://www.caliban.org/ruby/ruby-aws/
